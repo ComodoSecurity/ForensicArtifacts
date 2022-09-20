@@ -1,4 +1,4 @@
-# Windows specific artifacts.
+# Windows specific artifacts for Comodo Cybersecurity.
 
 name: WindowsActiveDesktop
 doc: Windows Active Desktop settings and components.

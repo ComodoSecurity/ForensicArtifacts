@@ -1,4 +1,4 @@
-# MacOS (Darwin) specific artifacts.
+# MacOS (Darwin) specific artifacts for Comodo Cybersecurity.
 
 name: MacOSAppleSystemLogFiles
 doc: Apple system log (ASL) files
